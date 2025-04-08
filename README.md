@@ -1,4 +1,6 @@
-# Add to API_KEY:
+# Weather App
+![](https://github.com/sjcineas/WeatherApp/blob/main/DemoSC)
+## Add to API_KEY:
 1. Click on your project in Xcode.
 
 2. Go to Product > Scheme > Edit Scheme…
