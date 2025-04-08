@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -80.2,
+        "lat": 25.9
+    },
+    "weather": [
+        {
+            "id": 211,
+            "main": "Thunderstorm",
+            "description": "thunderstorm",
+            "icon": "11d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 26.7,
+        "feels_like": 28.86,
+        "temp_min": 25,
+        "temp_max": 27.01,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1011
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.17,
+        "deg": 330
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1744135652,
+    "sys": {
+        "type": 1,
+        "id": 5222,
+        "country": "US",
+        "sunrise": 1744110255,
+        "sunset": 1744155627
+    },
+    "timezone": -14400,
+    "id": 4156931,
+    "name": "Golden Glades",
+    "cod": 200
+}
