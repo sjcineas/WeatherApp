@@ -1,4 +1,4 @@
-#Add to API_KEY:
+# Add to API_KEY:
 1. Click on your project in Xcode.
 
 2. Go to Product > Scheme > Edit Scheme…
